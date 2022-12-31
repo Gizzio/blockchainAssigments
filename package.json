@@ -4,7 +4,7 @@
     },
     "devDependencies": {
         "chai": "^4.2.0",
-        "ethereum-waffle": "^2.0.12",
+        "ethereum-waffle": "^2.5.1",
         "mocha": "^6.1.4",
         "openzeppelin-solidity": "^2.3.0"
     }
